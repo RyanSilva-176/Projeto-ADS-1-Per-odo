@@ -1,0 +1,5 @@
+1 - Desenvolver um simulador de sala de cinema
+2 - Implementar as mesmas funções do que o professor ensinou
+3 - Acrescentar um catálogo de filmes (possibilitar adicionar outros filmes)
+4 - Compra e emissão do ingresso
+5 - 
